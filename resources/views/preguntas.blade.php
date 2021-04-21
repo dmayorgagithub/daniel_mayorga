@@ -21,7 +21,6 @@
     <tr>
       <th scope="col">#</th>
       <th scope="col">Pregunta</th>
-      <th scope="col">Acciones</th>
     </tr>
   </thead>
   <tbody>
@@ -29,7 +28,6 @@
       <tr>
         <th scope="row">{{$info->id}}</th>
         <td>{{$info->pregunta}}</td>
-        <td>Otto</td>
       </tr>
     @endforeach
   </tbody>

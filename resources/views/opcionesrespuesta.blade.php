@@ -32,7 +32,6 @@
       <th scope="col">#</th>
       <th scope="col">Pregunta</th>
       <th scope="col">Opciones</th>
-      <th scope="col">Acciones</th>
     </tr>
   </thead>
   <tbody>
